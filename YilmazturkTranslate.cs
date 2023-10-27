@@ -10,9 +10,7 @@ using Button = System.Windows.Forms.Button;
 using ListView = System.Windows.Forms.ListView;
 #endregion
 
-namespace YilmazturkTranslate
-{
-    public static class YilmazturkTranslate
+public static class YilmazturkTranslate
     {
         #region Important / Önemli
         // TR :
