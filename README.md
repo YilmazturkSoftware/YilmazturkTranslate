@@ -1,7 +1,7 @@
 ![image](https://i.hizliresim.com/l40cp9o.png)
 
 # Yılmaztürk Translate
-* This README file is not english.
+* This README file is not english. [Read English](https://github.com/YilmazturkSoftware/YilmazturkTranslate/blob/main/ENREADME.md)
 * Sürüm: v1.0
 
 # Neye Yarar
